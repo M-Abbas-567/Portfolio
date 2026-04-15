@@ -7,7 +7,7 @@ import Projects from "./components/Projects.jsx";
 import Experience from "./components/Experience.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
-
+//hi abbas
 const App = () => (
   <div className="min-h-screen bg-background">
     <Navbar />
